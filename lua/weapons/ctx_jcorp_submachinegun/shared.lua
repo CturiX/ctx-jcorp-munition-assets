@@ -21,7 +21,7 @@ SWEP.UseHands = true
 SWEP.ViewModelTargetFOV = 70
 
 SWEP.ViewModel = Model("models/weapons/jma/f/jma_smg.mdl")
-SWEP.WorldModel = Model("models/weapons/cstrike/w_smg_ump_45.mdl")
+SWEP.WorldModel = Model("models/weapons/w_smg_ump45.mdl")
 
 SWEP.HoldType = "smg"
 SWEP.LowerHoldType = "passive"

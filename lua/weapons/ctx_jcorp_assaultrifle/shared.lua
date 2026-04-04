@@ -22,7 +22,7 @@ SWEP.UseHands = true
 SWEP.ViewModelTargetFOV = 60
 
 SWEP.ViewModel = Model("models/weapons/jma/jma_arifle.mdl")
-SWEP.WorldModel = Model("models/weapons/cstrike/w_rif_galil.mdl")
+SWEP.WorldModel = Model("models/weapons/w_rif_galil.mdl")
 
 SWEP.HoldType = "smg"
 SWEP.LowerHoldType = "passive"

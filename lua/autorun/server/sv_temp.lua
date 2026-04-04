@@ -1,0 +1,1 @@
+resource.AddWorkshop( "3695574300" ) --This is just an unlisted workshop upload with the content so people on ZMod can see the models. You should remove this whenever this addon is properly published.

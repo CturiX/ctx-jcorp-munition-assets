@@ -29,7 +29,7 @@ SWEP.UseHands = true
 
 
 SWEP.ViewModel = Model("models/weapons/jma/jma_lightmachinegun.mdl")
-SWEP.WorldModel = Model("models/weapons/w_mg42bd.mdl")
+SWEP.WorldModel = Model("models/weapons/w_mach_m249para.mdl")
 
 SWEP.HoldType = "smg"
 SWEP.LowerHoldType = "passive"
