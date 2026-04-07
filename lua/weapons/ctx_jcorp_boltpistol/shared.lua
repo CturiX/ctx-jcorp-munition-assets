@@ -20,7 +20,7 @@ SWEP.UseHands = true
 
 
 SWEP.ViewModel = Model("models/weapons/jma/jma_boltpistol.mdl")
-SWEP.WorldModel = Model("models/weapons/cstrike/w_smg_ump45.mdl")
+SWEP.WorldModel = Model("models/weapons/w_smg_ump45.mdl")
 
 SWEP.HoldType = "pistol"
 SWEP.LowerHoldType = "passive"

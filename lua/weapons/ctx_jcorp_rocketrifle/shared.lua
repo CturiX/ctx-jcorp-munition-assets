@@ -20,7 +20,7 @@ SWEP.UseHands = true
 SWEP.ViewModelTargetFOV = 54
 
 SWEP.ViewModel = Model("models/weapons/cstrike/c_shot_m3super90.mdl")
-SWEP.WorldModel = Model("models/weapons/cstrike/w_smg_ump45.mdl")
+SWEP.WorldModel = Model("models/weapons/w_smg_ump45.mdl")
 
 SWEP.HoldType = "ar2"
 SWEP.LowerHoldType = "passive"

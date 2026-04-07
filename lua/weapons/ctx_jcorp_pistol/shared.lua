@@ -21,7 +21,7 @@ SWEP.UseHands = true
 SWEP.ViewModelTargetFOV = 50
 
 SWEP.ViewModel = Model("models/weapons/jma/jma_pistol.mdl")
-SWEP.WorldModel = Model("models/weapons/cstrike/w_pist_glock18.mdl")
+SWEP.WorldModel = Model("models/weapons/w_pist_glock18.mdl")
 
 SWEP.HoldType = "revolver"
 SWEP.LowerHoldType = "passive"
